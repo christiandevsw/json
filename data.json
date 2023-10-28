@@ -1,0 +1,184 @@
+[
+  {
+    "id": "d8025572-4cdf-40e9-a396-ff550ac02241",
+    "name": "Suspiro a la limeña",
+    "price": 12.00,
+    "dscto": 0.00,
+    "description": "Manjar real del Perú, con dulce de leche y merengue"
+  },
+  {
+    "id": "122fa17d-5268-4600-a8ff-314177b18462",
+    "name": "Alfajor",
+    "price": 8.30,
+    "dscto": 0.00,
+    "description": "Masa bañado en dulce de leche"
+  },
+  {
+    "id": "c83d2680-619b-4300-99b4-a62fae6c4cb6",
+    "name": "Mazamorra morada",
+    "price": 9.50,
+    "dscto": 0.00,
+    "description": "Maiz morado, menbrillo, manzana y piña"
+  },
+  {
+    "id": "915ef0a7-57b5-4b50-8221-e9634492dbf5",
+    "name": "Picarones",
+    "price": 15.50,
+    "dscto": 0.00,
+    "description": "Harinas de trigo crocantes"
+  },
+  {
+    "id": "9a52b7e6-2878-4388-b2d4-977ec13e8dd8",
+    "name": "Arroz con leche",
+    "price": 8.30,
+    "dscto": 0.00,
+    "description": "Sabrosa para el paladar más exigente"
+  },
+  {
+    "id": "db00e358-de3e-436d-b5bc-3fbb76db7371",
+    "name": "Bife de cerdo parrillero con anticucho",
+    "price": 25.90,
+    "dscto": 0.05,
+    "description": "1 Bife de cerdo + 1 porción de arroz con choclo + 1 porción de papas parrilleras + 1 palito de anticucho"
+  },
+  {
+    "id": "ec1c3949-5e0f-4085-858d-818de03301d0",
+    "name": "Bife Angosto",
+    "price": 38.90,
+    "dscto": 0.05,
+    "description": "1 Bife Angosto + 2 tajadas de plátanos fritos + 1 Ensalada Fresca + 1 Porción de Papas Parrilleras"
+  },
+  {
+    "id": "e9c059f4-3972-4665-bef8-f4f179ee515d",
+    "name": "Carne a lo pobre",
+    "price": 29.90,
+    "dscto": 0.05,
+    "description": "1 Bisteck + 1 porción de papas fritas + 1 porción de arroz con choclo + 2 tajadas de plátanos fritos + 1 huevo frito"
+  },
+  {
+    "id": "ee45aea8-d719-4cad-bb00-be074e03cd4b",
+    "name": "Pechuga parrillera con chorizo",
+    "price": 23.90,
+    "dscto": 0.05,
+    "description": "1 Pechuga criolla + 1 porción de arroz con choclo + 1 porción de papas fritas + 1 chorizo parrillero."
+  },
+  {
+    "id": "b81d4ca0-bbcc-4130-8fdc-e148e2857949",
+    "name": "Churrasco",
+    "price": 32.90,
+    "dscto": 0.05,
+    "description": "1 Churrasco + 2 tajadas de plátanos fritos + 1 Ensalada Fresca + 1 Porción de Papas Parrilleras"
+  },
+  {
+    "id": "b2567063-6d15-42f1-9f76-d01bb78f7c9a",
+    "name": "Hamburguesa artesanal",
+    "price": 23.90,
+    "dscto": 0.05,
+    "description": "Angus con queso, acompañada de tomate y lechuga"
+  },
+  {
+    "id": "59842eb8-66f4-4e90-9238-d817a6b63dc9",
+    "name": "Surf and turf burguer",
+    "price": 36.80,
+    "dscto": 0.05,
+    "description": "hamburguesa de carne Americana acompañada de langostino jumbo, champiñones, tocino y queso crema"
+  },
+  {
+    "id": "ddf52639-5d51-45fe-a4b6-e8562a98b6c5",
+    "name": "Triple bacon Stackhouse burger",
+    "price": 39.90,
+    "dscto": 0.05,
+    "description": "Hamburguesa a la parrilla gratinada con queso Cheddar y acompañada de tres tipos de tozino"
+  },
+  {
+    "id": "1919413f-003c-4b6d-8eea-6830e7b08865",
+    "name": "Burger Italiano",
+    "price": 25.30,
+    "dscto": 0.05,
+    "description": "Carne de res Angus, tomates, arúgula, queso gorgonzola, cebolla confitada"
+  },
+  {
+    "id": "401fe863-f09b-4a79-803a-ecb222293ae8",
+    "name": "Kobe truffle burger",
+    "price": 25.30,
+    "dscto": 0.05,
+    "description": "Molienda e Wagyu, alioli de Trufa, cheddar blanco y cebolla caramelizada"
+  },
+  {
+    "id": "afc67cbc-2ed5-428f-b317-5db2d44fe80e",
+    "name": "Pizza Mozzarella",
+    "price": 26.90,
+    "dscto": 0.00,
+    "description": "Con doble queso mozzarella"
+  },
+  {
+    "id": "8f74a90a-78d7-41cf-aa8c-3b19745c036f",
+    "name": "Pizza Pepperoni",
+    "price": 26.90,
+    "dscto": 0.00,
+    "description": "Con queso mozzarella y pepperoni"
+  },
+  {
+    "id": "c912f0e0-3982-404a-954d-5da540704eaf",
+    "name": "Pizza Vegetariana",
+    "price": 26.90,
+    "dscto": 0.00,
+    "description": "Con queso mozzarella, champiñones, aceituans negras, etc"
+  },
+  {
+    "id": "7b38c6b1-ab4e-4d96-8d2f-0f0e85a4dce8",
+    "name": "Pizza Hawaiana",
+    "price": 31.90,
+    "dscto": 0.00,
+    "description": "Con queso mozzarella, jamon, piña, etc"
+  },
+  {
+    "id": "fcb4ec5d-632b-418b-a3a7-5c3ee15f953e",
+    "name": "Pizza con chorizo, champiñones y aceitunas",
+    "price": 31.90,
+    "dscto": 0.00,
+    "description": "Con queso mozzarella, chorizo, champiñones, aceitunas verdes y aceitunas negras"
+  },
+  {
+    "id": "c8e69752-7a17-423a-ba93-ae1fc92915e9",
+    "name": "Café Americano",
+    "price": 8.50,
+    "dscto": 0.00,
+    "description": "Un Expreso más suave y dulce"
+  },
+  {
+    "id": "647c588e-bf15-4a31-8844-02c286cbce6c",
+    "name": "Café Capuchino",
+    "price": 9.60,
+    "dscto": 0.00,
+    "description": "Expreso con espuma de leche"
+  },
+  {
+    "id": "847ff3c8-2fc9-4842-a884-225bd455630d",
+    "name": "Café Expresso",
+    "price": 9.00,
+    "dscto": 0.00,
+    "description": "Café al paso"
+  },
+  {
+    "id": "4fc50912-f484-4d4e-81a1-b70e69dc1a43",
+    "name": "Café Ristretto",
+    "price": 9.30,
+    "dscto": 0.00,
+    "description": "Café concentrado"
+  },
+  {
+    "id": "d35b9bf7-28bd-4a20-8b5d-f79044a0a126",
+    "name": "Café Machiatto",
+    "price": 9.50,
+    "dscto": 0.00,
+    "description": "Café con tinte ligero de leche"
+  },
+  {
+    "id": "deefb828-9716-4ae1-99f9-4881e5927d7a",
+    "name": "Torta de chocolate",
+    "price": 20.00,
+    "dscto": 0.00,
+    "description": "Dulce y rica para los paladores más exigentes"
+  }
+]
